@@ -1,9 +1,7 @@
 
-This is a git practice
-jakldfjsalkjdfklsjakdlgjsakldfjslkfajslkj
-<<<<<<< HEAD
-asdfasdfas
-<<<<<<< HEAD
+
 abcd
->>>>>>> 137cf12 (Update text files)
->>>>>>> ea2ab98 (Update text files)
+
+=======
+내 컴퓨터에서 수정한 줄
+
